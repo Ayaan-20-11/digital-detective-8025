@@ -42,11 +42,11 @@ Organising the assignment into separate mission folders makes the project easier
 
 ## 5. Difficulties Faced
 
-No major difficulties.
+During the initial Git commit, Git automatically used the local Mac username and hostname as the commit identity. I wanted to avoid exposing local device information in the public repository.
 
 ## 6. How I Resolved Them
 
-Not applicable.
+I configured a repository-specific Git username and GitHub-provided noreply email address. I then amended the initial commit using `git commit --amend --reset-author --no-edit` and verified the updated author and committer details before pushing.
 
 ## 7. Evidence / Files
 
@@ -58,4 +58,8 @@ Not applicable.
 
 ## 8. Commit Details
 
-Pending initial Git commit and GitHub push. This section will be updated after publishing the repository.
+- Commit message: `Set up Digital Detective mission structure`
+- Initial commit hash: `e9f5c50`
+- Branch: `main`
+- Remote repository: https://github.com/Ayaan-20-11/digital-detective-8025
+- Status: Successfully pushed to GitHub.

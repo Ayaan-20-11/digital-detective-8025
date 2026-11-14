@@ -2,12 +2,11 @@
 
 ## Diwali Independent Learning Assignment
 
-Welcome to The Digital Detective!
+Welcome to **The Digital Detective!**
 
 This repository contains my work for the Diwali Independent Learning Assignment. The objective of this project is to explore how computers work, understand fundamental computer science concepts, practise Terminal operations, learn about operating systems, explore number systems and networking, and use Git and GitHub for version control.
 
-The assignment is organised into nine missions. Each mission focuses on a different area of computer fundamentals and practical computing.
-
+The assignment is organised into nine missions, each focusing on a different area of computer fundamentals and practical computing.
 
 ## Mission Index
 
@@ -23,20 +22,62 @@ The assignment is organised into nine missions. Each mission focuses on a differ
 | Mission 7 | Computer Networking | [README](mission-07-networking/README.md) |
 | Mission 8 | Final Report and Submission | [README](mission-08-final-report/README.md) |
 
+## Topics Explored
+
+Throughout this assignment, I explored:
+
+- Computer fundamentals, hardware, software and the IPOS cycle.
+- Terminal commands, file management, flags and pipes.
+- Operating systems, processes, memory, storage, paths and permissions.
+- How programs execute, Python programming, compilers and interpreters.
+- Decimal, binary and hexadecimal number systems.
+- Character encoding, ASCII and UTF-8.
+- Git, GitHub, version control, branches and Pull Requests.
+- Networking concepts such as LAN, MAN, WAN, DNS, routers, protocols and client-server communication.
+
+## Running the Number Converter
+
+Mission 5 contains a Python program that converts a positive decimal number into binary and hexadecimal representations.
+
+To run it:
+
+1. Open the repository in Terminal.
+2. Navigate to the Mission 5 folder:
+
+   ```bash
+   cd mission-05-numbers-data
+   ```
+
+3. Execute the Python program:
+
+   ```bash
+   python3 number_converter.py
+   ```
+
+4. Enter a positive decimal number when prompted. The program displays its binary and hexadecimal representations.
+
 ## Project Workflow
 
-Each mission in this repository will be completed, documented, and committed separately using Git. After completing a mission, I will push the changes to GitHub and verify that the commit and files are visible before starting the next mission.
+Each mission is documented in its respective folder. The work is organised and tracked using Git, with meaningful commits for individual missions.
 
-This approach keeps the project organised and makes it easier to track progress and review changes.
+Changes are pushed to GitHub, and the repository history is used to track progress. Mission 6 also includes a practical branch and Pull Request workflow.
 
 ## My Learning
 
-Through this assignment, I have learned several important computer science concepts:
+Through this assignment, I developed a better understanding of fundamental computer science concepts and practical computing skills.
 
 1. **Computer Fundamentals:** I understood how computers use the IPOS cycle (Input, Processing, Output and Storage) to perform tasks.
 
 2. **Operating Systems and Terminal:** I learned how an operating system manages processes, memory, files and permissions. I also practised Terminal commands to create, inspect and manage files.
 
-3. **Programming and Number Systems:** I wrote and executed Python programs, understood the difference between compilers and interpreters, and explored how decimal, binary and hexadecimal numbers are represented.
+3. **Programming and Number Systems:** I wrote and executed Python programs, understood the difference between compilers and interpreters, and explored decimal, binary and hexadecimal representations.
 
 4. **Git and GitHub:** I learned how version control works, how to stage and commit changes, and how branches and Pull Requests support collaboration.
+
+5. **Computer Networking:** I explored how computers communicate over networks, how DNS resolves domain names and how a browser communicates with a web server to load a website.
+
+## Repository Status
+
+All missions are organised into separate folders with their respective documentation. Practical programs and supporting files are included wherever required.
+
+This repository represents my learning journey through the Diwali Independent Learning Assignment.

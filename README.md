@@ -28,3 +28,15 @@ The assignment is organised into nine missions. Each mission focuses on a differ
 Each mission in this repository will be completed, documented, and committed separately using Git. After completing a mission, I will push the changes to GitHub and verify that the commit and files are visible before starting the next mission.
 
 This approach keeps the project organised and makes it easier to track progress and review changes.
+
+## My Learning
+
+Through this assignment, I have learned several important computer science concepts:
+
+1. **Computer Fundamentals:** I understood how computers use the IPOS cycle (Input, Processing, Output and Storage) to perform tasks.
+
+2. **Operating Systems and Terminal:** I learned how an operating system manages processes, memory, files and permissions. I also practised Terminal commands to create, inspect and manage files.
+
+3. **Programming and Number Systems:** I wrote and executed Python programs, understood the difference between compilers and interpreters, and explored how decimal, binary and hexadecimal numbers are represented.
+
+4. **Git and GitHub:** I learned how version control works, how to stage and commit changes, and how branches and Pull Requests support collaboration.

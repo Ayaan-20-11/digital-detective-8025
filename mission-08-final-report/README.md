@@ -45,7 +45,7 @@ I improved the root `README.md` by adding:
 | Mission 5 | Number Systems and Data | Completed |
 | Mission 6 | Git and GitHub | Completed |
 | Mission 7 | Computer Networking | Completed |
-| Mission 8 | Final Report and Submission | In progress |
+| Mission 8 | Final Report and Submission | Completed |
 
 ### GitHub Collaboration
 
